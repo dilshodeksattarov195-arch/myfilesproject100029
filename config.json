@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsync",
+        "uuid": 44631,
+        "checksum": "wp35rh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
